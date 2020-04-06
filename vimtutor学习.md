@@ -146,7 +146,7 @@ vimtutor
 
 
 
-[lesson1]([https://asciinema.org/a/317181)  
+第一课([![asciicast](https://asciinema.org/a/317181.svg)](https://asciinema.org/a/317181))  
 
 
 
@@ -154,7 +154,7 @@ vimtutor
 
 
 
-[lesson2-3]([![asciicast](https://asciinema.org/a/317175.svg)](https://asciinema.org/a/317175))  
+第二课到第三课([![asciicast](https://asciinema.org/a/317175.svg)](https://asciinema.org/a/317175))  
 
 
 
@@ -162,7 +162,7 @@ vimtutor
 
 
 
-[lesson4-7]([![asciicast](https://asciinema.org/a/317169.svg)](https://asciinema.org/a/317169))  
+第四课到第七课([![asciicast](https://asciinema.org/a/317169.svg)](https://asciinema.org/a/317169))  
 
 
 
